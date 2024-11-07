@@ -1,0 +1,10 @@
+Mensaje #1 - Fecha y hora: 2024-11-07 14:48:25 - IP Cliente:  - Respuesta: Quito - Correcta: true
+Mensaje #2 - Fecha y hora: 2024-11-07 14:48:27 - IP Cliente:  - Respuesta: H - Correcta: true
+Mensaje #3 - Fecha y hora: 2024-11-07 14:48:29 - IP Cliente:  - Respuesta: sdf - Correcta: false
+Mensaje #4 - Fecha y hora: 2024-11-07 14:48:29 - IP Cliente:  - Respuesta: asdf - Correcta: false
+Mensaje #5 - Fecha y hora: 2024-11-07 14:48:30 - IP Cliente:  - Respuesta: asdf - Correcta: false
+Mensaje #1 - Fecha y hora: 2024-11-07 14:54:23 - IP Cliente:  - Respuesta:  - Correcta: false
+Mensaje #1 - Fecha y hora: 2024-11-07 14:59:43 - IP Cliente:  - Respuesta:  - Correcta: false
+Mensaje #1 - Fecha y hora: 2024-11-07 15:23:59 - IP Cliente:  - Respuesta:  - Correcta: false
+Mensaje #2 - Fecha y hora: 2024-11-07 15:24:10 - IP Cliente:  - Respuesta:  - Correcta: false
+Mensaje #3 - Fecha y hora: 2024-11-07 15:29:39 - IP Cliente:  - Respuesta:  - Correcta: false
